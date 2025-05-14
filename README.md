@@ -37,7 +37,7 @@ This project focuses on predicting the likelihood of diabetes in individuals usi
 - Switching to Nadam with fine-tuned learning rate led to improved results (~96% accuracy, ~11% loss).
 - The ANN was trained on a cleaned and pre-processed dataset to ensure robustness.
 
-## 🔮 Future Scope
+## Future Scope
 - **Model Improvements:** Experiment with deeper or alternative architectures.
 - **Enhanced Evaluation:** Include metrics like precision, recall, and F1-score.
 - **Data Expansion:** Incorporate additional lifestyle factors such as diet, physical activity, and family history.
